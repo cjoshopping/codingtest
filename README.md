@@ -13,6 +13,9 @@
 * 게시글 목록
 * 게시글 등록
 
+## 소스 실행 방법
+<pre><code>mvn spring-boot:run</code></pre>
+
 ![dashboard](./images/dashboard.png)
 
 ## 게시판 아래의 요구사항에 맞게 수정 하여 주세요
